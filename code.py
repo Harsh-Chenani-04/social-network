@@ -1,4 +1,12 @@
 x = 17
-for i in range(x):
-  print(x/2+1,end = " ")
+
+if not x:
+  print(x)
+else:
+  for i in range(x):
+    print(i*2 + x, end = "")
+  print("\n")
+
+l = [2,3]
+print(l)
   
