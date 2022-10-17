@@ -7,4 +7,13 @@ for k in range(x):
   l.append(k)
 
 print(l)
+
+import NetworkX
+
+#dgraph = D.graph(6)
+#import graph name
+
+"""
+Assigned the name 
+"""
   
